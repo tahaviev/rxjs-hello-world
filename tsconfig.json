@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "ES2020",
+      "DOM"
+    ],
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "outDir": "build",
+    "rootDir": "src",
+    "target": "ES2020"
+  }
+}

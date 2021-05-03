@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-hello-world",
+  "version": "0.0.1",
+  "description": "rxjs hello world",
+  "license": "MIT",
+  "repository": "https://github.com/tahaviev/rxjs-hello-world",
+  "scripts": {
+    "start": "tsc && node build/main.js"
+  },
+  "dependencies": {
+    "rxjs": "7.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.2.4"
+  }
+}
